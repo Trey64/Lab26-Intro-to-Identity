@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\bin\Debug\netcoreapp2.0\Lab26Tom.deps.json
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\bin\Debug\netcoreapp2.0\Lab26Tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\bin\Debug\netcoreapp2.0\Lab26Tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\bin\Debug\netcoreapp2.0\Lab26Tom.dll
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\obj\Debug\netcoreapp2.0\Lab26Tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\obj\Debug\netcoreapp2.0\Lab26Tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\obj\Debug\netcoreapp2.0\Lab26Tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\obj\Debug\netcoreapp2.0\Lab26Tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\bin\Debug\netcoreapp2.0\Lab26Tom.pdb
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\obj\Debug\netcoreapp2.0\Lab26Tom.dll
+C:\Users\Tom\source\repos\Lab26-Intro-to-Identity\Lab26Tom\obj\Debug\netcoreapp2.0\Lab26Tom.pdb
